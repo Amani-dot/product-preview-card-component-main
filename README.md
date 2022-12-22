@@ -11,10 +11,9 @@ Users are be able to:
 
 ### Screenshot
 
-Desktop
-![](./Screenshots/desktop.png)
-Mobile
 ![](./Screenshots/mobile.png)
+![](./Screenshots/desktop.png)
+
 
 ### Links
 
